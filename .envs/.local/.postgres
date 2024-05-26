@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=bambino
+POSTGRES_USER=qmAlLvGuhOsCOyzalcVgBBEDxhgsROqf
+POSTGRES_PASSWORD=KzFTh3uTlwh8ehzzozi9klzmezGvO1rE5ELsrxXonJS5SayddWoe4NLnaveHfsBM
